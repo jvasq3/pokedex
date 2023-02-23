@@ -23,7 +23,7 @@ In root:
 
 ## Pending
 
-Some store enhancements would enable text field updates when searching pokemon history. I would also implement error states for not found pokemon and proper input validation of characters. Given more time, I would also implement separate UI for loading pokemon details. Some setup has been done for a loading state which was also not yet implemented. Testing was an afterthought as well with the time constraints, but I would have tested hooks, comopnent, and redux logic.
+Some store enhancements would enable text field updates when searching pokemon history. I would also implement error states for not found pokemon and proper input validation of characters. Given more time, I would also implement separate UI for loading pokemon details. Some setup has been done for a loading state which was also not yet implemented. Testing was an afterthought as well with the time constraints, but I would have tested hooks, component, and redux logic.
 
 
 
