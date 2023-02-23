@@ -15,7 +15,7 @@ https://pokeapi.co/
 #### 
 node version: 18
 
-In /pokedex-ts:
+In root:
 
 `npm install`
 
